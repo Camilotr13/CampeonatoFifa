@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\CampeonatosFIFA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3AA40A-80B0-4793-98F8-688A17160A9D}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|c:\\users\\usuario\\source\\repos\\campeonatosfifa\\campeonatosfifa.dominio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3AA40A-80B0-4793-98F8-688A17160A9D}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Class1.cs",
+              "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Class1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Class1.cs",
+              "RelativeToolTip": "CampeonatosFIFA.Dominio\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:26:26.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
