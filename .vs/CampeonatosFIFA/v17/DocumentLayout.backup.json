@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\CampeonatosFIFA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC3AA40A-80B0-4793-98F8-688A17160A9D}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|c:\\users\\usuario\\source\\repos\\campeonatosfifa\\campeonatosfifa.dominio\\entidades\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3AA40A-80B0-4793-98F8-688A17160A9D}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\entidades\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3AA40A-80B0-4793-98F8-688A17160A9D}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|c:\\users\\usuario\\source\\repos\\campeonatosfifa\\campeonatosfifa.dominio\\entidades\\campeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3AA40A-80B0-4793-98F8-688A17160A9D}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\entidades\\campeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3AA40A-80B0-4793-98F8-688A17160A9D}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|c:\\users\\usuario\\source\\repos\\campeonatosfifa\\campeonatosfifa.dominio\\entidades\\fase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3AA40A-80B0-4793-98F8-688A17160A9D}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\entidades\\fase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3AA40A-80B0-4793-98F8-688A17160A9D}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|c:\\users\\usuario\\source\\repos\\campeonatosfifa\\campeonatosfifa.dominio\\entidades\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3AA40A-80B0-4793-98F8-688A17160A9D}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\entidades\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC79AA4F-5CB2-45FA-BCC9-8E7C9CFB24E2}|CampeonatosFIFA.Persistencia\\CampeonatosFIFA.Persistencia.csproj|c:\\users\\usuario\\source\\repos\\campeonatosfifa\\campeonatosfifa.persistencia\\contexto\\campeonatosfifacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC79AA4F-5CB2-45FA-BCC9-8E7C9CFB24E2}|CampeonatosFIFA.Persistencia\\CampeonatosFIFA.Persistencia.csproj|solutionrelative:campeonatosfifa.persistencia\\contexto\\campeonatosfifacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ciudad.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Ciudad.cs",
-              "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Ciudad.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Ciudad.cs",
-              "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\Ciudad.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:13:01.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Fase.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Fase.cs",
-              "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Fase.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Fase.cs",
-              "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\Fase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:11:55.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Campeonato.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Campeonato.cs",
-              "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Campeonato.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Campeonato.cs",
-              "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\Campeonato.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T13:48:01.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Seleccion.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Seleccion.cs",
-              "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Seleccion.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Seleccion.cs",
-              "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\Seleccion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Title": "CampeonatosFIFAContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\CampeonatosFIFA\\CampeonatosFIFA.Persistencia\\Contexto\\CampeonatosFIFAContext.cs",
+              "RelativeDocumentMoniker": "CampeonatosFIFA.Persistencia\\Contexto\\CampeonatosFIFAContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\CampeonatosFIFA\\CampeonatosFIFA.Persistencia\\Contexto\\CampeonatosFIFAContext.cs",
+              "RelativeToolTip": "CampeonatosFIFA.Persistencia\\Contexto\\CampeonatosFIFAContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T13:30:57.942Z",
+              "WhenOpened": "2025-02-20T18:59:59.222Z",
               "EditorCaption": ""
             }
           ]

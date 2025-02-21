@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampeonatosFIFA.Dominio", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampeonatosFIFA.Persistencia", "CampeonatosFIFA.Persistencia\CampeonatosFIFA.Persistencia.csproj", "{FC79AA4F-5CB2-45FA-BCC9-8E7C9CFB24E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampeonatoFIFA.core", "CampeonatoFIFA.core\CampeonatoFIFA.core.csproj", "{53BB1D87-1C59-43D7-9927-C218D66D6668}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FC79AA4F-5CB2-45FA-BCC9-8E7C9CFB24E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC79AA4F-5CB2-45FA-BCC9-8E7C9CFB24E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC79AA4F-5CB2-45FA-BCC9-8E7C9CFB24E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53BB1D87-1C59-43D7-9927-C218D66D6668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BB1D87-1C59-43D7-9927-C218D66D6668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BB1D87-1C59-43D7-9927-C218D66D6668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BB1D87-1C59-43D7-9927-C218D66D6668}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

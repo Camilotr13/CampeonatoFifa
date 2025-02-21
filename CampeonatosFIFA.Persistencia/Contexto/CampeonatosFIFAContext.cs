@@ -9,13 +9,13 @@ namespace CampeonatosFIFA.Persistencia.Contexto
         public CampeonatosFIFAContext(DbContextOptions<CampeonatosFIFAContext> options)
             : base(options)
         {
+
         }
 
         public DbSet<Seleccion> Selecciones { get; set; }
         public DbSet<Campeonato> Campeonatos { get; set; }
 
-
-        void onModelCreaggting(ModelBuilder builder)
+        void onModelCreating(ModelBuilder builder)
         {
             builder.Entity<Seleccion>(entidad =>
             {
@@ -33,7 +33,25 @@ namespace CampeonatosFIFA.Persistencia.Contexto
                 .HasOne(e => e.PaisOrganizador)
                 .WithMany()
                 .HasForeignKey(e => e.IdSeleccion);
+
+
+            builder.Entity<GrupoPais>(entidad =>
+            {
+                entidad.HasKey(e => new { e.IdGrupo, e.IdSeleccion });
+            });
+
+            builder.Entity<GrupoPais>()
+                .HasOne(e => e.Grupo)
+                .WithMany()
+                .HasForeignKey(e => e.IdGrupo);
+
+            builder.Entity<GrupoPais>()
+                .HasOne(e => e.Seleccion)
+                .WithMany()
+                .HasForeignKey(e => e.IdSeleccion);
         }
+
+
 
     }
 }
